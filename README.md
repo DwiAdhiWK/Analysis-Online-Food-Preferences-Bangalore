@@ -1,50 +1,45 @@
 # Judul Project
-```
 Penerapan statistik deskriptif dan statistik inferensial untuk meningkatkan tingkat retensi pengguna jasa pengiriman jasa makanan di Bangalore
-```
 
 ## Repository Outline
-```
 description.md - Deskripsi dokumentasi repository project Dwi Adhi.
 clean_df.xlsx - Dataset yang sudah dibersihkan dalam bentuk excel.
 onlinedeliverydata.csv - Dataset yang akan diolah dan analisis.
 P0M1_dwi-adhi_dataset.csv - Dataset yang sudah dibersihkan dalam bentuk csv.
 P0M1_dwi-adhi.ipynb - Notebook yang berisi pengolahan dan analisis data.
-```
-
 
 ## Problem Background
-'''
-Saya sebagai data analyst yang bekerja di perusahaan pengiriman makanan di Bangalore ditugaskan untuk meningkatkan tingkat retensi pengguna jasa pengiriman makanan. Sebagai tambahan saya juga akan mencari faktor-faktor apa saya yang mempengaruhi kemauan user menggunakan jasa.
+Saya adalah seorang **Data Analyst** di perusahaan jasa pengiriman makanan yang berbasis di Bangalore. Perusahaan saat ini menghadapi **penurunan jumlah pengguna aktif**, terutama dalam hal **retensi pelanggan**.
 
-Perusahaan mengalami penurunan pengunaan jasa pengiriman makanan. Tim marketing mengestimasikan tingak retensi user sebesar 60%. Selain itu perusahaan kekurangan refensi agar user tetap menggunakan jasa. Saya sebagai data analyst yang berkerja diperusahaan pengiriman makanan di Bangalore ditugasakan meningkatkan retensi user.
-'''
+Tim marketing memperkirakan tingkat retensi pengguna saat ini sekitar **60%**, dan perusahaan kekurangan referensi maupun strategi untuk mempertahankan pelanggan agar terus menggunakan layanan.
+
+Sebagai data analyst, saya ditugaskan untuk:
+- Menganalisis pola perilaku pengguna
+- Mengidentifikasi faktor-faktor yang mempengaruhi keputusan pengguna untuk tetap menggunakan layanan
+- Memberikan rekomendasi berbasis data untuk meningkatkan tingkat retensi pengguna
 
 ## Project Output
-```
-Output project ini berupa Tableau dashboard dari analisis jasa pengiriman online.
-```
+Output project ini berupa Tableau dashboard dari analisis jasa pengiriman.
+
 ## Data
-```
-Dataset ini terdiri dari 388 baris dan 55 kolom. Tipe data tiap kolom dibagi menjadi 49 String, 3 integer, 1 boolean, dan 2 lain nya. Dataset memiliki 1 missing value di kolom Reviews.
-```
+Dataset ini terdiri dari 388 baris dan 55 kolom. 
+Tipe data tiap kolom dibagi menjadi:
+- 49 string 
+- 3 integer
+- 2 float
+- 1 boolean
 
 ## Method
-```
 - Statistik Dekriptif
 - Statistik Inferensial (Chi-squared test)
-```
 
 ## Stacks
-```
 - Python
 - pandas, numpy, scipy, and plotly-express
 - Tableau (Dashboard visualization)
-```
 
 ## Reference
-```
 https://www.kaggle.com/datasets/benroshan/online-food-delivery-preferencesbangalore-region
 https://public.tableau.com/app/profile/dwi.adhi.widigda.k./viz/AnalysisOnlineFoodPreferencesBangalore/Dashboard1
-```
+
 ---
