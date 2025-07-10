@@ -2,11 +2,11 @@
 Penerapan statistik deskriptif dan statistik inferensial untuk meningkatkan tingkat retensi pengguna jasa pengiriman jasa makanan di Bangalore
 
 ## Repository Outline
-description.md - Deskripsi dokumentasi repository project Dwi Adhi.
-clean_df.xlsx - Dataset yang sudah dibersihkan dalam bentuk excel.
-onlinedeliverydata.csv - Dataset yang akan diolah dan analisis.
-P0M1_dwi-adhi_dataset.csv - Dataset yang sudah dibersihkan dalam bentuk csv.
-P0M1_dwi-adhi.ipynb - Notebook yang berisi pengolahan dan analisis data.
+- description.md - Deskripsi dokumentasi repository project Dwi Adhi.
+- clean_df.xlsx - Dataset yang sudah dibersihkan dalam bentuk excel.
+- onlinedeliverydata.csv - Dataset yang akan diolah dan analisis.
+- P0M1_dwi-adhi_dataset.csv - Dataset yang sudah dibersihkan dalam bentuk csv.
+- P0M1_dwi-adhi.ipynb - Notebook yang berisi pengolahan dan analisis data.
 
 ## Problem Background
 Saya adalah seorang **Data Analyst** di perusahaan jasa pengiriman makanan yang berbasis di Bangalore. Perusahaan saat ini menghadapi **penurunan jumlah pengguna aktif**, terutama dalam hal **retensi pelanggan**.
