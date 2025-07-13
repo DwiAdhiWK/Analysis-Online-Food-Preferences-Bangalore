@@ -2,7 +2,6 @@
 Penerapan statistik deskriptif dan statistik inferensial untuk meningkatkan tingkat retensi pengguna jasa pengiriman jasa makanan di Bangalore
 
 ## Repository Outline
-- description.md - Deskripsi dokumentasi repository project Dwi Adhi.
 - clean_df.xlsx - Dataset yang sudah dibersihkan dalam bentuk excel.
 - onlinedeliverydata.csv - Dataset yang akan diolah dan analisis.
 - P0M1_dwi-adhi_dataset.csv - Dataset yang sudah dibersihkan dalam bentuk csv.
