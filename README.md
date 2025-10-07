@@ -85,6 +85,7 @@ Berikut adalah penjabaran masalah yang akan di analisa:
   Insight:
     - Pengguna laki-laki lebih banyak dibanding perempuan.
     - Hal ini bisa disebabkan oleh faktor aktivitas di luar rumah atau kebiasaan memesan makanan secara online yang lebih tinggi pada laki-laki.
+    
 4. Pekerjaan apa saja user yang memesan makanan?
   Temuan:
     - Pengguna terbanyak adalah mahasiswa.
