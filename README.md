@@ -136,15 +136,15 @@ Selain itu, jumlah pengguna laki-laki lebih banyak dibandingkan perempuan, yang 
 ## Recommendation
 
 1. Strategi Pemasaran:
-  - Tim marketing dapat memfokuskan promosi pada laki-laki berusia 21–27 tahun, terutama dari kalangan mahasiswa dan karyawan muda.
-  - Promosi yang efektif dapat berupa diskon khusus untuk waktu makan siang atau penawaran menarik untuk kategori makanan ringan (snack).
+      - Tim marketing dapat memfokuskan promosi pada laki-laki berusia 21–27 tahun, terutama dari kalangan mahasiswa dan karyawan muda.
+      - Promosi yang efektif dapat berupa diskon khusus untuk waktu makan siang atau penawaran menarik untuk kategori makanan ringan (snack).
 2. Peningkatan Pengalaman Pengguna:
-  - Tingkatkan fitur-fitur aplikasi yang berhubungan dengan kemudahan pemesanan online, variasi pilihan restoran, dan kemudahan metode pembayaran.
-  - Perkuat aspek penawaran diskon, kualitas sistem pelacakan pesanan, serta kecepatan pengiriman.
-  - Dorong peningkatan kualitas pelayanan kurir, terutama dalam hal komunikasi dengan pelanggan (frekuensi panggilan) dan kesopanan dalam interaksi.
+      - Tingkatkan fitur-fitur aplikasi yang berhubungan dengan kemudahan pemesanan online, variasi pilihan restoran, dan kemudahan metode pembayaran.
+      - Perkuat aspek penawaran diskon, kualitas sistem pelacakan pesanan, serta kecepatan pengiriman.
+      - Dorong peningkatan kualitas pelayanan kurir, terutama dalam hal komunikasi dengan pelanggan (frekuensi panggilan) dan kesopanan dalam interaksi.
 3. Perbaikan Faktor Negatif:
-  - Aplikasi perlu meminimalkan masalah seperti pengiriman yang terlambat, ketidaktersediaan layanan, dan ongkos kirim yang terlalu tinggi.
-  - Selain itu, perlu ada upaya untuk mengurangi waktu pengiriman dan waktu tunggu pelanggan agar pengalaman pengguna menjadi lebih baik.
+      - Aplikasi perlu meminimalkan masalah seperti pengiriman yang terlambat, ketidaktersediaan layanan, dan ongkos kirim yang terlalu tinggi.
+      - Selain itu, perlu ada upaya untuk mengurangi waktu pengiriman dan waktu tunggu pelanggan agar pengalaman pengguna menjadi lebih baik.
 
 ## Stacks
 - Python
