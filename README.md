@@ -56,13 +56,14 @@ Berikut adalah penjabaran masalah yang akan di analisa:
 
 ## Analisis dan Insight
 1. Kapan saja customer menggunakan jasa untuk memesan makanan?
-  Temuan:
+
+    Temuan:
     - Proporsi sarapan siang (brunch) sebanyak 38 (17.2%)
     - Proporsi makan siang sebanyak 71 (32.1%)
     - Proporsi makan malam sebanyak 44 (19.9%)
     - Proporsi snack sebanyak 68 (30.8%)
 
-  Insight:
+    Insight:
     - Customer paling sering menggunakan aplikasi di jam makan siang.
     - Penggunaan aplikasi paling jarang terjadi saat sarapan.
     - Proporsi pemesanan snack cukup tinggi, hampir mendekati waktu makan utama.
