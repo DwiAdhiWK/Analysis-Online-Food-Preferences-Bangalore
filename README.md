@@ -69,36 +69,40 @@ Berikut adalah penjabaran masalah yang akan di analisa:
     - Proporsi pemesanan snack cukup tinggi, hampir mendekati waktu makan utama.
   
 2. Umur customer yang akan menggunakan jasa lagi?
-  Temuan:
+
+    Temuan:
     - Rata-rata umur: 24.28 tahun
     - Median: 24 tahun
     - Modus: 23 tahun
 
-  Insight:
+    Insight:
     - Sebaran umur cenderung simetris, didominasi oleh usia muda (sekitar 20–25 tahun).ng.
     - Hal ini menunjukkan bahwa mayoritas pengguna aktif berasal dari kelompok usia muda, yang lebih akrab dengan layanan online food delivery.
 
 3. Bagaimana perbandingan gender customer yang akan menggunakan jasa lagi?
-  Temuan:
+
+    Temuan:
     - Laki-laki: 129 pengguna
     - Perempuan: 92 pengguna
 
-  Insight:
+    Insight:
     - Pengguna laki-laki lebih banyak dibanding perempuan.
     - Hal ini bisa disebabkan oleh faktor aktivitas di luar rumah atau kebiasaan memesan makanan secara online yang lebih tinggi pada laki-laki.
     
 4. Pekerjaan apa saja user yang memesan makanan?
-  Temuan:
+
+    Temuan:
     - Pengguna terbanyak adalah mahasiswa.
     - Pengguna kedua terbanyak adalah karyawan.
     - Pengguna paling sedikit adalah ibu rumah tangga.
-  Insight:
+    Insight:
     - Aplikasi lebih sering digunakan oleh segmen muda dan produktif, yang memiliki keterbatasan waktu untuk memasak.
     - Potensi promosi dapat difokuskan ke mahasiswa dan pekerja kantoran.
     
-5. Faktor apa saja yang mempengaruhi user menggunakan jasa pengiriman makanan lagi?
-  Temuan:
-  ['marital_status',
+6. Faktor apa saja yang mempengaruhi user menggunakan jasa pengiriman makanan lagi?
+
+    Temuan:
+   ['marital_status',
  'occupation',
  'monthly_income',
  'preference(p2)',
