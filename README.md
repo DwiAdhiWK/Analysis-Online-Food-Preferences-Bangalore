@@ -93,6 +93,7 @@ Berikut adalah penjabaran masalah yang akan di analisa:
   Insight:
     - Aplikasi lebih sering digunakan oleh segmen muda dan produktif, yang memiliki keterbatasan waktu untuk memasak.
     - Potensi promosi dapat difokuskan ke mahasiswa dan pekerja kantoran.
+    
 5. Faktor apa saja yang mempengaruhi user menggunakan jasa pengiriman makanan lagi?
   Temuan:
   ['marital_status',
